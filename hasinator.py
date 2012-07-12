@@ -27,7 +27,10 @@ Scoring
   --------------
     * (50) Reading from output file to compare against files on disk
     * (10) Read from a standard hash file, autodetect hashtype (.md5sum)
-  
+
+
+Another cool comment added to the doc string:
+<insert infinite loop code here>
 """
 import os, optparse
 
