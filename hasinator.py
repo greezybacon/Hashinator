@@ -1,6 +1,9 @@
 """
 Python file hashing utility
 
+It doesn't do anything useful yet, but one day when I get some more time, it
+will then do something useful.
+
 Scoring
 =====================
   Required (100)
